@@ -1,0 +1,15 @@
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.csproj.AssemblyReference.cache
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.AssemblyInfoInputs.cache
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.AssemblyInfo.cs
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\bin\Debug\net6.0\Задание 4.exe
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\bin\Debug\net6.0\Задание 4.deps.json
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\bin\Debug\net6.0\Задание 4.runtimeconfig.json
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\bin\Debug\net6.0\Задание 4.dll
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\bin\Debug\net6.0\Задание 4.pdb
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.dll
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\refint\Задание 4.dll
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.pdb
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\Задание 4.genruntimeconfig.cache
+D:\GeekBrains\Ввод в языки программирования\Лекция 2\Задание 4\obj\Debug\net6.0\ref\Задание 4.dll
